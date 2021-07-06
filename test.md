@@ -1,4 +1,4 @@
-```uml
+```startuml
 @startuml
 Alice ->Bob: Request
 Bob - -> Alice: Response
