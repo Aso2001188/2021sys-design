@@ -1,4 +1,3 @@
-```startuml
 @startuml
 
 /'
@@ -45,4 +44,4 @@ package "ECサイト" as target_system {
     }
   }
 @enduml
-```
+
