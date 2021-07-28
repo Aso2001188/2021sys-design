@@ -1,6 +1,6 @@
 # DB定義書
 ## ER図
-[ER図はこちら]( "ER図はこちら" )
+[ER図はこちら]( https://github.com/Aso2001188/2021sys-design/edit/main/ER-図.md"ER図はこちら" )
 
 
 # DBテーブルカラム詳細一覧
